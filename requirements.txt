@@ -1,0 +1,8 @@
+recordlinkage
+rapidfuzz
+jellyfish
+scikit-learn
+networkx
+pandas
+numpy
+matplotlib
