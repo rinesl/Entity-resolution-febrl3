@@ -6,3 +6,5 @@ networkx
 pandas
 numpy
 matplotlib
+pyspark
+pyarrow
